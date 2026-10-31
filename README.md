@@ -1,2 +1,3 @@
-# python-beginner-30-days
-my first python learning projects
+print("Hello World")
+print("My first python program")
+print("I am learning python")
